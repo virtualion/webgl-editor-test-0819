@@ -1,0 +1,2 @@
+ID	dataClass	name	data	uniqueCode	x	y	z	urldetail	url
+2	2DObject	スプラッシュ（ウェブ）	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-img/Splash.png	2	6.5	-4.494552	-1		https://virtualion.co.jp

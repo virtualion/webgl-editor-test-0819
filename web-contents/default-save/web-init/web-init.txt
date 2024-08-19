@@ -1,2 +1,0 @@
-#root=https://virtualion.github.io/webgl-editor-test-0819/web-contents/default-save/web-init/web-init.txt
-#prj=web-init
